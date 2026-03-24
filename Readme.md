@@ -131,6 +131,15 @@ Exemplo de saída:
 \- Docker Desktop instalado e em execução.
 
 
+## Links
+
+GitHub:
+https://github.com/mosmendes/ml-docker-project
+
+Docker Hub:
+https://hub.docker.com/r/mosmendes/ml-docker-project
+
+
 
 ## Autora
 
