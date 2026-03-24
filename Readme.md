@@ -67,9 +67,12 @@ A personalização da imagem base foi feita por meio de um arquivo `Dockerfile`,
 &#x20;   └── README.md
 
 
+## Descrição da aplicação
+
+A aplicação consiste em um script simples de Machine Learning desenvolvido em Python com a biblioteca Scikit-Learn. O script utiliza o dataset Iris, realiza a separação entre treino e teste, treina um modelo DecisionTreeClassifier e exibe no terminal a acurácia e algumas previsões do modelo.
+
 
 ## Arquivo Dockerfile
-
 
 
 O Dockerfile desenvolvido contém comentários para facilitar o entendimento da personalização realizada.
@@ -122,6 +125,11 @@ Exemplo de saída:
 
 &#x20;   Primeiras previsões: \[1 0 2 1 1]
 
+
+## Publicação da imagem
+
+
+Após a construção da imagem localmente, a imagem foi publicada no Docker Hub na área da usuária.
 
 
 ## Requisitos
